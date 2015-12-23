@@ -1,0 +1,8 @@
+$git checkout -b dev
+
+$touch test_branch
+
+$git add .
+$git commit -m "add test_branch"
+$git push
+

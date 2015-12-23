@@ -1,0 +1,5 @@
+creat a branch named dev2
+then touch a file named test_dev2
+add the file to origin dev2
+then creat a pull request to master
+
